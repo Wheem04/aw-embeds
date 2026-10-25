@@ -1,0 +1,24 @@
+{
+  "version": "call-sheet@0.6.1",
+  "build": "1f08173895",
+  "files": {
+    "aw-call-sheet.min.js": {
+      "characters": 63776,
+      "integrity": "sha384-tEPkA5mWe/t6Exehoy5la2fIqnHQ86A+zeflP3hpYaQBnxBWDkLNJ9glimuscyFj",
+      "use": "the embed host, one script tag after the form"
+    },
+    "split/head.html": {
+      "characters": 35619,
+      "use": "part 1: the page head code, or a Code Embed above part 2"
+    },
+    "split/footer.html": {
+      "characters": 29164,
+      "use": "part 2: the page footer code (before the body ends), or a Code Embed after the form"
+    },
+    "aw-golden.min.js": {
+      "characters": 2410,
+      "integrity": "sha384-AkcakuZXTKI8F0MoaG4UMByY6PNaY8fuiQKsu5BMyMchnN1Js6TU5RKYk2XpLyS+",
+      "use": "the site head, one script tag (or aw-golden.html pasted inline)"
+    }
+  }
+}
